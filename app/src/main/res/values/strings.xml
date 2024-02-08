@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sonu Day3</string>
+    <string name="pic1">pic1</string>
+    <string name="pic2">pic2</string>
+    <string name="pic3">Pic3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="add_text">Add Text</string>
+    <string name="button">Button</string>
+</resources>
